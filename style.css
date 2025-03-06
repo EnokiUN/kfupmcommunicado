@@ -10350,3 +10350,9 @@ body {
     display: none
   }
 }
+
+@media only screen and (max-width: 1200px) {
+  .news-detail__img {
+    border-width: 20px 100px !important;
+  }
+}
