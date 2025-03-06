@@ -4925,7 +4925,6 @@ only screen and (min-width: 80.0625rem) {
   width: 100%;
   height: auto;
   object-fit: cover;
-  transition: opacity calc(var(--rm-animation-delay-ms) * 2) ease-in-out, transform calc(var(--rm-animation-delay-ms) * 8) ease-in-out
 }
 
 @media only screen and (min-width: 57.8125rem) {
@@ -6855,7 +6854,6 @@ body {
   width: 100%;
   height: auto;
   object-fit: cover;
-  transition: opacity calc(var(--rm-animation-delay-ms) * 2) ease-in-out, transform calc(var(--rm-animation-delay-ms) * 8) ease-in-out
 }
 
 @media only screen and (min-width: 57.8125rem) {
@@ -7697,7 +7695,6 @@ body {
   width: 100%;
   height: auto;
   object-fit: cover;
-  transition: opacity calc(var(--rm-animation-delay-ms) * 2) ease-in-out, transform calc(var(--rm-animation-delay-ms) * 8) ease-in-out
 }
 
 @media only screen and (min-width: 57.8125rem) {
